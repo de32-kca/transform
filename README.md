@@ -2,7 +2,7 @@
 ### example
 ![image](https://github.com/user-attachments/assets/03070f25-8005-4ab3-b9dd-cb42faea3b89)
 
-### columns
+### use columns
 ```
         'movieCd',  # 영화의 대표코드를 출력합니다.
         'movieNm',  # 영화명(국문)을 출력합니다.
