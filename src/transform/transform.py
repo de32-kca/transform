@@ -24,6 +24,4 @@ def df_data(dt=20180101, path='~/code/de32-kca/data_kca/'):
     df_N = df_D[df_D['repNationCd_y'].notnull()]
     df_F = df_N.rename(columns={'repNationCd_y': 'nationCd'})
 
-    print(df_F)
-
     return df_F
