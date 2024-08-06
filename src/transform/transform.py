@@ -26,5 +26,4 @@ def df_data(dt=20180101, path='~/code/de32-kca/data_kca/'):
 
     print(df_F)
 
-df_data()
-
+    return df_F
