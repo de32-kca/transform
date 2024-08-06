@@ -7,7 +7,10 @@ authors = [
     {name = "mingk42", email = "xoals123456t@gmail.com"},
     {name = "HaramSs", email = "haram8274@gmail.com"},
 ]
-dependencies = []
+dependencies = [
+    "pandas>=2.2.2",
+    "pyarrow>=17.0.0",
+]
 requires-python = "==3.11.*"
 readme = "README.md"
 license = {text = "MIT"}
